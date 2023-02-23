@@ -5,7 +5,7 @@ Plugin URI: https://github.com/jovtrc/wp-customer-id
 Description: A simple WordPress plugin that generates an unique customer ID to the users registered in the site.
 Author: João Carvalho
 Version: 0.1
-Author URI: http://joaocarvalho.cc
+Author URI: https://joaocarvalho.cc
 */
 
 // The plugin actions goes here
